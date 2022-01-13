@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body{
+    font-family: 'Acme', sans-serif;
+    position: relative;
+    background-color: #6f00ff;
+}
+h1{
+    text-align: center;
+    color: #ffff;
+}
+/* india */
+.india{
+    width: 320px;
+    height: 200px;
+    position: relative;
+    text-transform: capitalize;
+}
+.india img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 72px;
+    left: 130px;
+    z-index: 1;
+}
+.first-part{
+    width: 320px;
+    height: 70px;
+    background-color: #ff8000;
+    position: absolute;
+}
+.second-part{
+    width: 320px;
+    height: 68px;
+    background-color: #ffff;
+    position: absolute;
+    top: 65px;
+}
+.third-part{
+    width: 320px;
+    height: 70px;
+    background-color: #15ff00;
+    position: absolute;
+    top: 130px;
+}
+.india p{
+    position: absolute;
+    top: 140px;
+    left: 145px;
+    font-size: 20px;
+}
+/* india */
+/* pakistan */
+.pakistan{
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    left: 350px;
+    top: 65px;
+}
+.pakistan-first{
+    width: 70px;
+    height: 200px;
+    background-color: #ffff;
+}
+.pakistan-second{
+    width: 250px;
+    height: 200px;
+    background-color: #15ff00;
+    position: absolute;
+    left: 70px;
+    top: -0.9px;
+}
+.pakistan-second img{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: 60px;
+    top: 35px;  
+}
+.pakistan p{
+    position: absolute;
+    left: 130px;
+    top: 140px;
+    font-size: 20px;
+}
+/* pakistan */
+/* bangladesh */
+.bangladesh{
+    width: 600px;
+    height: 300px;
+    background-color: #15ff00;
+    position: absolute;
+    left: 700px;
+    top: 150px;
+}
+.circle{
+    width: 230px;
+    height: 230px;
+    background-color: #ff0000;
+    border-radius: 50%;
+    position: absolute;
+    left: 190px;
+    top: 35px;
+}
+.circle img{
+    width: 130px;
+    height: 220px;
+    position: absolute;
+    left: 50px;
+    top: 5px;
+}
+.bangladesh p{
+    font-size: 20px;
+    text-transform: capitalize;
+    position: absolute;
+    top: 240px;
+    left: 380px;
+}
+/* bangladesh */
+/* iran */
+.iran{
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    top: 300px;
+}
+.iran-first{
+    width: 320px;
+    height: 70px;
+    background-color: #42f532;
+    position: absolute;
+}
+.iran-second{
+    width: 320px;
+    height: 68px;
+    background-color: #ffff;
+    position: absolute;
+    top: 65px;
+}
+.iran-second img{
+    width: 60px;
+    height: 50px;
+    position: absolute;
+    left: 130px;
+    top: 9px;
+}
+.iran-third{
+    width: 320px;
+    height: 70px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 130px;
+}
+.iran-third p{
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+/* iran */
+/* afganistan */
+.afganistan{
+    width: 320px;
+    height: 200px;
+    position: absolute;
+    left: 350px;
+    top: 300px;
+    background-color: red;
+}
+.afg-first{
+    width: 107px;
+    height: 200px;
+    background-color: #000;
+}
+.afg-second{
+    width: 107px;
+    height: 200px;
+    background-color: #ff0000;
+    position: absolute;
+    top: 0px;
+    left: 107px;
+}
+.afg-second img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 3px;
+}
+.afg-third{
+    width: 107px;
+    height: 200px;
+    background-color: #33ff00;
+    position: absolute;
+    top: 0px;
+    left: 213px;
+}
+.afganistan p{
+    font-size: 20px;
+    position: absolute;
+    left: 110px;
+    top: 150px;
+}
+/* afganistan */
